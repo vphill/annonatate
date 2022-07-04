@@ -1,0 +1,35 @@
+---
+canvas: "https://texashistory.unt.edu/ark:/67531/metapth1433634/m1/9/canvas/"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "On March 2, 1861, exactly twenty-five years after Texas declared her inde-",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "vphill",
+                "name": "Mark Phillips"
+            },
+            "created": "2022-07-04T17:21:06.483Z",
+            "modified": "2022-07-04T17:21:39.797Z"
+        }
+    ],
+    "target": {
+        "source": "https://texashistory.unt.edu/ark:/67531/metapth1433634/m1/9/canvas/",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pct:11.98911641438802,15.846086831172453,75.67960103352864,14.480261015316993"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://texashistory.unt.edu/ark:/67531/metapth1433634/manifest/",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "08385889-c541-415f-bd62-730ec0e0eda9.json",
+    "motivation": "commenting"
+}

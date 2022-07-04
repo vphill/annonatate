@@ -1,0 +1,35 @@
+---
+canvas: "https://texashistory.unt.edu/ark:/67531/metapth1433634/m1/1/canvas/"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Published by\nThe Texas Gulf Historical Society\nBeaumont, Texas",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "vphill",
+                "name": "Mark Phillips"
+            },
+            "created": "2022-07-04T17:20:04.109Z",
+            "modified": "2022-07-04T17:20:25.629Z"
+        }
+    ],
+    "target": {
+        "source": "https://texashistory.unt.edu/ark:/67531/metapth1433634/m1/1/canvas/",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=300.19830322265625,1812.072265625,844.2443237304688,221.0721435546875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://texashistory.unt.edu/ark:/67531/metapth1433634/manifest/",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "62177878-f91a-49eb-92a8-ea71e8939146.json",
+    "motivation": "commenting"
+}

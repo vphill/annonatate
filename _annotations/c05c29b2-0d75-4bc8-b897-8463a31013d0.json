@@ -1,0 +1,35 @@
+---
+canvas: "https://texashistory.unt.edu/ark:/67531/metapth1433634/m1/1/canvas/"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Texas Gulf",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "vphill",
+                "name": "Mark Phillips"
+            },
+            "created": "2022-07-04T17:19:19.066Z",
+            "modified": "2022-07-04T17:19:26.692Z"
+        }
+    ],
+    "target": {
+        "source": "https://texashistory.unt.edu/ark:/67531/metapth1433634/m1/1/canvas/",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=569.8914184570312,291.96685791015625,356.9212646484375,56.553863525390625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://texashistory.unt.edu/ark:/67531/metapth1433634/manifest/",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c05c29b2-0d75-4bc8-b897-8463a31013d0.json",
+    "motivation": "commenting"
+}

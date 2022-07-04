@@ -1,0 +1,35 @@
+---
+canvas: "https://texashistory.unt.edu/ark:/67531/metapth1433634/m1/1/canvas/"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The Texas Gulf Historical and Biographical Record",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "vphill",
+                "name": "Mark Phillips"
+            },
+            "created": "2022-07-04T17:19:34.738Z",
+            "modified": "2022-07-04T17:19:49.490Z"
+        }
+    ],
+    "target": {
+        "source": "https://texashistory.unt.edu/ark:/67531/metapth1433634/m1/1/canvas/",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=263.2123107910156,187.75025939941406,975.8628845214844,402.1001434326172"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://texashistory.unt.edu/ark:/67531/metapth1433634/manifest/",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "60536914-ddad-4d1e-be28-8616baa16f24.json",
+    "motivation": "commenting"
+}
